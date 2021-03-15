@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamtesch
+- 👋 Hi, I’m Adam Tesch
 - 👀 I’m interested in PowerShell, IGEL, Azure and Weightlifting
 - 🌱 I’m currently learning PowerShell
 
